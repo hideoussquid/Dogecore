@@ -3,8 +3,8 @@
   "description": "Dogecoin Library",
   "version": "0.1.39",
   "author": {
-    "name": "pembo210",
-    "email": "pembo210@gmail.com"
+    "name": "hideoussquid",
+    "email": "hideoussquid@gmail.com"
   },
   "contributors": [
     {
@@ -27,7 +27,7 @@
   "main": "bitcore.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pembo210/Dogecore.git"
+    "url": "https://github.com/hideoussquid/Dogecore.git"
   },
   "scripts": {
     "install": "node-gyp rebuild",
